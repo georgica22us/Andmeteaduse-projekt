@@ -25,8 +25,23 @@ Another minor goal was to bring out the values for each variable that together s
 ## Getting Started
 
 1. Clone this repo.
-2. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)????
-3. etc...
+2. Open this repo with Jupyter notebook.
+3. The main code is written in files Kätlin.ipynb, Maria.ipynb and Georg.ipynb.
+4. To run these files, in each you have to run all cells from beginning.
+
+### Notebooks contents:
+
+#### Kätlin.ipynb:
+* Relation between Chlorides and quality
+* Relation between Density and quality
+* Relation between Sulphates and quality
+* Relation between Free sulfur dioxide and total sulfur dioxide
+* Relation between Free sulfur dioxide and quality
+
+#### Maria.ipynb:
+
+#### Georg.ipynb:
+
 
 #### Team Members:
 
