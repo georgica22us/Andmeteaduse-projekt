@@ -39,9 +39,21 @@ Another minor goal was to bring out the values for each variable that together s
 * Relation between Free sulfur dioxide and quality
 
 #### Maria.ipynb:
+* Relation between Volatile acidity and quality
+* Relation between Fixed acidity and quality
+* Relation between pH and quality
+* Relation between Citric adic and quality
+* Relation between residual sugar and quality
+* Relation between fixed acidity and volatile acidity
+* Relation between fixed acidity and pH
+* Relation between volatile acidity and pH
+* Relation between citric acid and pH
+* Best and worse wine comparison
 
-#### Georg.ipynb:
-
+#### Georg.ipynb  + Project.ipynb:
+* Realtion between alcohol and quality
+* Correlation
+* Prediction using KNN and RFC
 
 #### Team Members:
 
